@@ -1,28 +1,28 @@
 export const faqs = [
   {
-    question: "What makes Saarthi unique as a career development tool?",
+    question: "What makes PrepIn unique as a career development tool?",
     answer:
-      "Saarthi combines AI-powered career tools with industry-specific insights to help you advance your career. Our platform offers three main features: an intelligent resume builder, a cover letter generator, and an adaptive interview preparation system. Each tool is tailored to your industry and skills, providing personalized guidance for your professional journey.",
+      "PrepIn combines AI-powered career tools with industry-specific insights to help you advance your career. Our platform offers three main features: an intelligent resume builder, a cover letter generator, and an adaptive interview preparation system. Each tool is tailored to your industry and skills, providing personalized guidance for your professional journey.",
   },
   {
-    question: "How does Saarthi create tailored content?",
+    question: "How does PrepIn create tailored content?",
     answer:
-      "Saarthi learns about your industry, experience, and skills during onboarding. It then uses this information to generate customized resumes, cover letters, and interview questions. The content is specifically aligned with your professional background and industry standards, making it highly relevant and effective.",
+      "PrepIn learns about your industry, experience, and skills during onboarding. It then uses this information to generate customized resumes, cover letters, and interview questions. The content is specifically aligned with your professional background and industry standards, making it highly relevant and effective.",
   },
   {
-    question: "How accurate and up-to-date are Saarthi's industry insights?",
+    question: "How accurate and up-to-date are PrepIn's industry insights?",
     answer:
       "We update our industry insights daily using advanced AI analysis of current market trends. This includes salary data, in-demand skills, and industry growth patterns. Our system constantly evolves to ensure you have the most relevant information for your career decisions.",
   },
   {
-    question: "Is my data secure with Saarthi?",
+    question: "Is my data secure with PrepIn?",
     answer:
       "Absolutely. We prioritize the security of your professional information. All data is encrypted and securely stored using industry-standard practices. We use Clerk for authentication and never share your personal information with third parties.",
   },
   {
     question: "How can I track my interview preparation progress?",
     answer:
-      "Saarthi tracks your performance across multiple practice interviews, providing detailed analytics and improvement suggestions. You can view your progress over time, identify areas for improvement, and receive AI-generated tips to enhance your interview skills based on your responses.",
+      "PrepIn tracks your performance across multiple practice interviews, providing detailed analytics and improvement suggestions. You can view your progress over time, identify areas for improvement, and receive AI-generated tips to enhance your interview skills based on your responses.",
   },
   {
     question: "Can I edit the AI-generated content?",

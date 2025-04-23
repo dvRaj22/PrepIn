@@ -39,7 +39,7 @@ const HeroSection = () => {
             <div className="space-y-6 text-center">
                 <div className="space-y-6 mx-auto">
                     <h1 className="gradient-title text-5xl font-bold md:text-6xl lg:text-7xl xl:text-8xl">
-                        Your AI-Powered Sarthi for
+                        Your AI-Powered PrepIn for
                         <br />
                         Career Growth
                     </h1>
